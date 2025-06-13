@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ADefaultAssertionStrategy_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F6afdc079557f2fde26d0b9498af12ee1d04f5eb44e5921686d418053dd8161_003FDefaultAssertionStrategy_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/artem7k/Library/Caches/JetBrains/Rider2024.3/resharper-host/temp/Rider/vAny/CoverageData/_KR3.1090584642/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b39dd9c0_002Ddf83_002D4656_002D8c54_002D320b14dbd39d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="OrdersControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3C46DE81-B468-4805-B7BB-1A89F536B44D::net8.0::Tests.OrderServiceTests.OrdersControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3C46DE81-B468-4805-B7BB-1A89F536B44D::net8.0::Tests.OrderServiceTests.OrderServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3C46DE81-B468-4805-B7BB-1A89F536B44D::net8.0::Tests.PaymentServiceTests.AccountServiceTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3C46DE81-B468-4805-B7BB-1A89F536B44D::net8.0::Tests.PaymentServiceTests.PaymentsControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3C46DE81-B468-4805-B7BB-1A89F536B44D::net8.0::Tests.APIGatewayTests.ApiGatewayControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3C46DE81-B468-4805-B7BB-1A89F536B44D::net8.0::Tests.OrderServiceTests.OrderOutboxPublisherTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3C46DE81-B468-4805-B7BB-1A89F536B44D::net8.0::Tests.OrderServiceTests.PaymentResultConsumerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3C46DE81-B468-4805-B7BB-1A89F536B44D::net8.0::Tests.PaymentServiceTests.OutboxPublisherTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
